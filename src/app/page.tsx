@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
-          <li>Automaticaly deployed</li>
+          <li>Automaticaly deployed by github app and webhooks</li>
         </ol>
 
         <div className="flex flex-col items-center gap-4 sm:flex-row">
